@@ -1,0 +1,9 @@
+.shadow-forte {
+  box-shadow: 0 0 30px rgba(0, 0, 0, 0.5);
+  border-radius: 20px;
+  border: 2px solid #000000; 
+}
+.foto {
+  width: 75%; /* ou qualquer tamanho desejado */
+  height: auto; /* mantém a proporção da imagem */
+}
